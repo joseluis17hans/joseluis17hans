@@ -44,7 +44,7 @@
   ➤ Programación orientada a objetos con Java <br>
   ➤ Diseño web con HTML y CSS <br>
   ➤ JavaScript para páginas dinámicas <br>
-  ➤ PHP para backend <br>
+  <!--➤ PHP para backend <br>-->
   ➤ Bases de datos con MySQL <br>
   ➤ Control de versiones con Git y GitHub
 </p>
